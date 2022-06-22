@@ -26,14 +26,6 @@ Once you created a logs App, add this script to your web-page:
 </script>
 ```
 
-- Sematext Enterprise
-```
-<script src="https://cdn.jsdelivr.net/gh/megastef/sematext-js-console-logger/index.min.js">
-  // Sematext Enterprise 
-  sematextLogger('YOUR_LOGS_TOKEN', 'local', 'http://your-sematext-server:port')
-</script>
-```
-
 Example web page: 
 
 ```html
